@@ -225,6 +225,7 @@ p{
     width: 100%;
     height: 350px;
     object-fit: cover;
+    
 }
 
 /* Start of discount area */
@@ -295,7 +296,7 @@ p{
 .section-header-sale hr{
     background-color: salmon;
     height: 2px;
-    width: 35%;
+    width: 15%;
     margin: auto;
 }
 /* End of merchandise sale */
